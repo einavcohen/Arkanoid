@@ -1,0 +1,4 @@
+Manifest-Version: 1.1
+Created-By: Einav
+Main-Class: main.Ass6Game
+Class-Path: biuoop-1.4.jar
